@@ -1,0 +1,372 @@
+{
+  "main": {
+    "id": "f80166f0af003992",
+    "type": "split",
+    "children": [
+      {
+        "id": "81301f8adfcc6d3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5abee70efbde0908",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f92d409241e935a5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "96d455eaf726ea04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Downloading the Installation Image of Kali Linux.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Downloading the Installation Image of Kali Linux"
+            }
+          },
+          {
+            "id": "bd5b585004a7eedc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Install Kali Linux on VirtualBox/How to Install Kali Linux on VirtualBox_ An Expert Guide.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to Install Kali Linux on VirtualBox_ An Expert Guide"
+            }
+          },
+          {
+            "id": "cc343429c054951f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Diagram.svg"
+              },
+              "icon": "lucide-image",
+              "title": "Diagram"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d96a35ab7c063fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a9fad33424c8a7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c95a1c9e00e29c6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "task 7",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8c6106633316943f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "6c994e66ece44a7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 453.5
+  },
+  "right": {
+    "id": "68fd4a1bf3817dcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed8d21ad243611eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50c837b5ca86a21f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SITUATIONAL AWARANESS/Task 40 - SEATBELT CHECK!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Task 40 - SEATBELT CHECK!"
+            }
+          },
+          {
+            "id": "648e1c5846054d70",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f8632ffc2433e4cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SITUATIONAL AWARANESS/Task 40 - SEATBELT CHECK!.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Task 40 - SEATBELT CHECK!"
+            }
+          },
+          {
+            "id": "71a7f3ce0cafd751",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "61095e9a01bd282c",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "bcfbb7e63beab9a7",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e43a154cd4176e88",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ea03c577b0ba6837",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1a85cc149fed1661",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2bff82ee7f064632",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5df229085f56b8c8",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "05b1ceb658ffb5c1",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "308c8448c5dda989",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "fbe2b2dde8db22a6",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "8bf72b4ec13137be",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "juggl:Juggl global graph": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "6c994e66ece44a7b",
+  "lastOpenFiles": [
+    "Install Kali Linux on VirtualBox/Attachments/configuring_the_domain_name.webp",
+    "Creating a New VM-20241109064252387.webp",
+    "Install Kali Linux on VirtualBox/How to Install Kali Linux on VirtualBox_ An Expert Guide.md",
+    "Network options.md",
+    "Installing Kali Linux on VirtualBox Step-by-step Guide.md",
+    "Downloading the Installation Image of Kali Linux.md",
+    "Display options.md",
+    "Creating a New VM.md",
+    "Boot options.md",
+    "Creating a New VM-20241109064115990.webp",
+    "Creating a New VM-20241109063933190.webp",
+    "Creating a New VM-20241109063623323.webp",
+    "Install Kali Linux on VirtualBox/Attachments/how_to_install_kali_linux_on_virtualbox_fb.webp",
+    "Install Kali Linux on VirtualBox/Attachments/WEB-8819-Default-Featured-Image-for-Blog-Posts_2.webp",
+    "Install Kali Linux on VirtualBox/Attachments/Install-Ubuntu-20.04-on-Hyper-V-with-Enhanced-Session_-Detailed-Walkthrough_FB_LD.webp",
+    "Install Kali Linux on VirtualBox/Attachments/Asset-333.webp",
+    "Install Kali Linux on VirtualBox/Attachments/vm_has_been_imported.webp",
+    "Install Kali Linux on VirtualBox/Attachments/selecting_a_kali-linux-2023_3-virtualbox-amd64_vbox_file.webp",
+    "Install Kali Linux on VirtualBox/Attachments",
+    "Install Kali Linux on VirtualBox",
+    "SITUATIONAL AWARANESS/Task 40 - SEATBELT CHECK!.md",
+    "SITUATIONAL AWARANESS/Task 39 - So it's just fancy malware?.md",
+    "SITUATIONAL AWARANESS/Task  15 -  Docker? I hardly even know her!.md",
+    "POST EXPLOITATION/Task 16 - Living off the LANd.md",
+    "DOCKER BREAKOUT/Task 19 - Going%20out%20with%20a%20SHEBANG%21.md",
+    "POST EXPLOITATION/Task 38 - Watson left her locker open.md",
+    "POST EXPLOITATION/Task 37 - Good Intentions, Courtesy of Microsoft - Part II.md",
+    "NET BASICS/Task 7 - Rage Against the Compiler.md",
+    "NET BASICS/Task 6 - CLR - Commonly Lacking Radiation.md",
+    "README.md",
+    "SITUATIONAL AWARENESS",
+    "POST EXPLOITATION/Task 36 -  That's not a cat that's a dawg.md",
+    "FLAG SUBMISSION/Task 4 - Flag Submission Panel.md",
+    "INTRO/Task 3 - Kill Chain.md",
+    "AV EVASION/Task 35 - Wrapping the burrito.md",
+    "PIVOTING/Task 23 - Digging a tunnel to nowhere.md",
+    "WEB APP EXPLOITATION/Task 28 - Hide yo' Kids, Hide yo' Wives, Hide yo' Tokens.md",
+    "POST EXPLOITATION/Task 21 - From the Shadows.md",
+    "PRIVILEGE ESCALATION/Task 20 - Call me Mario, because I got all the bits.md",
+    "AV EVASION",
+    "docs/lib/metadata.json",
+    "docs/lib/media",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2"
+  ]
+}

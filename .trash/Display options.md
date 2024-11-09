@@ -1,0 +1,2 @@
+. Go to **Display** > **Screen** and set Video Memory to **128 MB**. This will prevent the installer from hanging.
+2. Next, select the checkbox **Enable 3D acceleration** (optional). It will be useful for applications that need 3D acceleration and help to avoid performance degradation.![[Display options-20241109133704096.webp]]
